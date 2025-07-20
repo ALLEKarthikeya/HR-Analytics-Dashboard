@@ -82,4 +82,5 @@ To deliver a presence-focused visual tool that:
 ---
 
 ### 6. Screenshots / Demos  
-![Dashboard Preview](https://github.com/your-username/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Preview](Snapshot of Dashboard.png)
+
